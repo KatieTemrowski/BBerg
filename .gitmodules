@@ -1,0 +1,3 @@
+[submodule "docs/pivottable"]
+	path = docs/pivottable
+	url = https://github.com/nicolaskruchten/pivottable.git
